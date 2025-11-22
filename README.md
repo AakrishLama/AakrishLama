@@ -8,13 +8,13 @@ I am a motivated developer and Software Technology student at **Linnaeus Univers
 
 ### Core Expertise & Toolkit
 
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jenkins,cs,html,css,bootstrap,pug,php,androidstudio,blende, docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,dart,github,git,mongodb,mysql,java,spring,js,nodejs,react,nextjs,vuejs,flutter,aws,azure,docker,jenkins,cpp,html,css)](https://skillicons.dev)
 
 My skill set is diverse, covering the full development cycle from infrastructure optimization to deployment.
 
-| Category | Key Technologies & Frameworks | Technologies  |
+| Category | Key Technologies & Frameworks | Technologies |
 | :--- | :--- | :--- |
-| **Languages** | **Java**, **Python**, **JavaScript**, **Go**, C++ | SQL, HTML5, CSS, Dart |
+| **Languages** | **Java**, **Python**, **JavaScript**, **Go**, C++ | SQL, HTML5, CSS, **Dart** |
 | **Backend & ML** | **Spring Boot**, **NodeJS**, Scikit-learn, NumPy, Pandas | VueJS, NodeJS, Flutter |
 | **Frontend & Mobile** | **ReactJS**, NextJS, Flutter | Riverpod, Go Router |
 | **Cloud & DevOps** | **AWS (EC2, S3)**, **Docker**, Azure, Jenkins | Git, Postman, Jira |
@@ -24,7 +24,7 @@ My skill set is diverse, covering the full development cycle from infrastructure
 
 ###  Key Achievements & Work Highlights
 
-* **Cloud & DevOps Optimization:** Implemented **CI/CD pipelines** using Jenkins and Docker, automating build and deployment processes that **reduced manual intervention by 80%**. Optimized cloud infrastructure (DigitalOcean) resulting in a **25% improvement in application performance** and **15% reduction in operational costs**.
+* **Cloud & DevOps Optimization:** Implemented **CI/CD pipelines** using Jenkins and **Docker**, automating build and deployment processes that **reduced manual intervention by 80%**. Optimized cloud infrastructure (DigitalOcean) resulting in a **25% improvement in application performance** and **15% reduction in operational costs**. 
 * **Full-Stack Development:** Engineered a secure cloud storage platform supporting 100+ concurrent users via **ReactJS**, **Spring Boot**, and **MongoDB**. Enabled real-time collaboration with a **WebSocket STOMP** live chat integration.
 * **Machine Learning:** Developed the **HarmonicAI Tuner**, achieving real-time pitch detection with **95% accuracy** by integrating ML algorithms for audio signal processing.
 * **Mentorship:** Guided 80+ undergraduate students in database concepts as a Teaching Assistant, resulting in a **20% improvement** in average exam scores.
