@@ -22,14 +22,6 @@ My skill set is diverse, covering the full development cycle from infrastructure
 
 ---
 
-###  Key Achievements & Work Highlights
-
-* **Cloud & DevOps Optimization:** Implemented **CI/CD pipelines** using Jenkins and **Docker**, automating build and deployment processes that **reduced manual intervention by 80%**. Optimized cloud infrastructure (DigitalOcean) resulting in a **25% improvement in application performance** and **15% reduction in operational costs**. 
-* **Full-Stack Development:** Engineered a secure cloud storage platform supporting 100+ concurrent users via **ReactJS**, **Spring Boot**, and **MongoDB**. Enabled real-time collaboration with a **WebSocket STOMP** live chat integration.
-* **Machine Learning:** Developed the **HarmonicAI Tuner**, achieving real-time pitch detection with **95% accuracy** by integrating ML algorithms for audio signal processing.
-* **Mentorship:** Guided 80+ undergraduate students in database concepts as a Teaching Assistant, resulting in a **20% improvement** in average exam scores.
-
----
 
 ###  Let's Connect!
 
