@@ -1,4 +1,4 @@
-# Hi there, I'm Aakrish Lama 
+# It's me Aakrish Lama
 
 ### Software Technology Student | Aspiring Cloud & Backend Developer
 
