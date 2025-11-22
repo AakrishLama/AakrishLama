@@ -2,29 +2,44 @@
 
 ### 🚀 Software Technology Student | Aspiring Cloud & Backend Developer
 
-[cite_start]I am a highly motivated developer and Software Technology student at **Linnaeus University**[cite: 5, 6]. [cite_start]My focus is on building robust, scalable backend systems and mastering **Cloud Infrastructure**[cite: 8]. [cite_start]I thrive on solving complex problems, as demonstrated by my experience in **CI/CD automation** [cite: 14] [cite_start]and **full-stack development**[cite: 23].
+I am a highly motivated developer and Software Technology student at **Linnaeus University**. My focus is on building robust, scalable backend systems and mastering **Cloud Infrastructure**. I thrive on solving complex problems, as demonstrated by my experience in **CI/CD automation** and **full-stack development**.
 
 ---
 
 ### 💡 Core Expertise & Toolkit
 
-[cite_start]My skill set is diverse, covering the full development cycle from infrastructure optimization to deployment[cite: 15].
+My skill set is diverse, covering the full development cycle from infrastructure optimization to deployment.
 
 | Category | Key Technologies & Stacks |
 | :--- | :--- |
-| **Backend** | [cite_start]**Java (Spring Boot)**, **Python**, **NodeJS**, Go [cite: 33, 35] |
-| **Cloud & DevOps** | [cite_start]**AWS (EC2, S3)**, **Docker**, Azure, Jenkins, Git [cite: 34, 39]  |
-| **Frontend** | [cite_start]ReactJS, NextJS, VueJS, Flutter [cite: 35] |
-| **Databases** | [cite_start]MongoDB, PostgreSQL, MySQL, SQL [cite: 36, 33] |
-| **Machine Learning** | [cite_start]Scikit-learn, NumPy, Pandas, ML Algorithms (Audio Signal Processing) [cite: 30, 37]  |
+| **Backend** | **Java (Spring Boot)**, **Python**, **NodeJS**, Go |
+| **Cloud & DevOps** | **AWS (EC2, S3)**, **Docker**, Azure, Jenkins, Git 
 
+[Image of Docker logo and AWS logo]
+ |
+| **Frontend** | ReactJS, NextJS, VueJS, Flutter |
+| **Databases** | MongoDB, PostgreSQL, MySQL, SQL |
+| **Machine Learning** | Scikit-learn, NumPy, Pandas, ML Algorithms (Audio Signal Processing) 
+
+[Image of Scikit-learn logo]
+ |
+
+---
+
+### 🌱 Key Achievements & Work Highlights
+
+* **Cloud & DevOps Optimization:** Implemented **CI/CD pipelines** using Jenkins and Docker, automating build and deployment processes that **reduced manual intervention by 80%**. Optimized cloud infrastructure (DigitalOcean) resulting in a **25% improvement in application performance** and **15% reduction in operational costs**.
+* **Full-Stack Development:** Engineered a secure cloud storage platform supporting 100+ concurrent users via **ReactJS**, **Spring Boot**, and **MongoDB**. Enabled real-time collaboration with a **WebSocket STOMP** live chat integration.
+* **Machine Learning:** Developed the **HarmonicAI Tuner**, achieving real-time pitch detection with **95% accuracy** by integrating ML algorithms for audio signal processing.
+* **Mentorship:** Guided 80+ undergraduate students in database concepts as a Teaching Assistant, resulting in a **20% improvement** in average exam scores.
+
+---
 
 ### 📫 Let's Connect!
 
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [cite_start][linkedin.com/in/aakrishlama](https://linkedin.com/in/aakrishlama) [cite: 4] |
-| **GitHub** | [cite_start][github.com/AakrishLama](https://github.com/AakrishLama) [cite: 4] |
-| [cite_start]**Email** | aakrish32@gmail.com [cite: 2] |
+| **LinkedIn** | [linkedin.com/in/aakrishlama](https://linkedin.com/in/aakrishlama) |
+| **GitHub** | [github.com/AakrishLama](https://github.com/AakrishLama) |
 
 <br>
