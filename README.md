@@ -24,10 +24,8 @@ My skill set is diverse, covering the full development cycle from infrastructure
 
 
 ###  Let's Connect!
-
-| Platform | Link |
-| :--- | :--- |
-| **LinkedIn** | [linkedin.com/in/aakrishlama](https://linkedin.com/in/aakrishlama) |
-| **GitHub** | [github.com/AakrishLama](https://github.com/AakrishLama) |
-
-<br>
+<div>
+  <a href="https://linkedin.com/in/aakrishlama">
+    <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+  </a>
+</div>
