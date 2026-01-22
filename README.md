@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-# It's me Aakrish Lama
+# HI! I am Aakrish Lama
 
 ### Software Technology Student | Aspiring Cloud & Backend Developer
 
