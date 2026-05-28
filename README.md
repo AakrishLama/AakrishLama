@@ -12,6 +12,7 @@ I am a motivated developer and Software Technology student at **Linnaeus Univers
 
 [![My Skills](https://skillicons.dev/icons?i=py,go,dart,github,git,mongodb,mysql,java,spring,js,nodejs,react,nextjs,vuejs,flutter,aws,azure,docker,jenkins,cpp,html,css)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=py,go,dart,github,git,mongodb,mysql,java,spring,js,nodejs,react,nextjs,vue,flutter,aws,azure,docker,jenkins,cpp,html,css)](https://skillicons.dev)
 My skill set is diverse, covering the full development cycle from infrastructure optimization to deployment.
 
 | Category | Key Technologies & Frameworks | Technologies |
