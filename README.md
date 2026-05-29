@@ -2,7 +2,7 @@
 
 # HI! I am Aakrish Lama
 
-### Software Technology Student | Aspiring Backend Developer
+### Software Technology Student | 
 
 I am a motivated developer and Software Technology student at **Linnaeus University**. My focus is on building robust, scalable backend systems and mastering **Cloud Infrastructure**. I thrive on solving complex problems, as demonstrated by my experience in **CI/CD automation** and **full-stack development**.
 
